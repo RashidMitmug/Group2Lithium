@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap');
+*{
+    font-family: 'League Spartan', sans-serif;
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-image: url('');
+
+}
+h1{
+    font-size: 3.5em;
+}
+.hello{
+    position: relative;
+    left:5%;
+    margin: 5%;
+    width:20vw;
+    display: inline-block;
+}
+.title{
+    color:hsl(300, 43%, 22%);
+    font-family:'League Spartan', sans-serif;
+    padding-bottom:2vw;
+}
+.hello p{
+    font-weight: 400;
+    line-height: 1.5;
+}
+.subtitle{
+    font-family: 'League Spartan', sans-serif;
+    color: hsl(303, 10%, 53%);
+}
+.containerstar{
+    display: inline-block;
+    margin-top:5vh;
+    padding-left: 20vw;
+}
+.containerstar p{
+    font-weight: 700
+}
+.constar2{
+    
+    padding-left: 3vw;
+    margin-top: 5vh;
+
+}
+.constar3{
+    padding-left: 6vw;
+    margin-top: 5vh;
+
+}
+.des{
+    display: inline-block;
+    color: hsl(300, 43%, 22%);
+    padding-left:25px;
+}
+.concon{
+    display: flex;
+    justify-content: center;
+}
+.person{
+    padding-bottom: 5px;
+}
+.bobio{
+    border-radius: 45px;
+    width: 50px;
+    padding:10px;
+}
+.nscon{
+    display: inline-block;
+    height: fit-content;
+    position: relative;
+    margin:10px;
+}
+.statement{
+    color: hsl(333, 80%, 67%);
+}
+.head{
+    display:flex;
+    justify-content: center;
+    height: fit-content;
+}
+.name{
+    display: inline-block;
+    color:white;
+    font-weight: 500;
+}
+.con1{
+    
+    height: fit-content;
+    display: inline-block;
+    
+}
+.con2{
+    margin-top: 3vh;
+    height: fit-content;
+    display: inline-block;
+  
+}
+.con3{
+    margin-top: 6vh;
+    position: relative;
+    display: inline-block;
+    
+}
+#backg{
+    background-color: hsl(300, 43%, 22%) ;
+    width: 20vw;
+    border-radius: 5px;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.review{
+    color:white;
+    padding-left: 1vw;
+    padding-right: 5vw;
+    line-height: 1.5;
+}
+.reviewcon{
+    width: 25vw;
+    height:10vh;
+}
